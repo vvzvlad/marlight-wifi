@@ -1,0 +1,5 @@
+D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight\bin\Debug\Marlight.dll
+D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight\bin\Debug\Marlight.pdb
+D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight\obj\Debug\Marlight.csprojResolveAssemblyReference.cache
+D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight\obj\Debug\Marlight.dll
+D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight\obj\Debug\Marlight.pdb

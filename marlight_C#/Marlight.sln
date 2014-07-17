@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marlight", "Marlight\Marlight.csproj", "{B16979F6-0949-4F2D-937D-74E67B34B41B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marlight_test", "Marlight_test\Marlight_test.csproj", "{761BE8D4-EF3E-4209-A918-F8FB881D1DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16979F6-0949-4F2D-937D-74E67B34B41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16979F6-0949-4F2D-937D-74E67B34B41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16979F6-0949-4F2D-937D-74E67B34B41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16979F6-0949-4F2D-937D-74E67B34B41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761BE8D4-EF3E-4209-A918-F8FB881D1DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761BE8D4-EF3E-4209-A918-F8FB881D1DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761BE8D4-EF3E-4209-A918-F8FB881D1DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761BE8D4-EF3E-4209-A918-F8FB881D1DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

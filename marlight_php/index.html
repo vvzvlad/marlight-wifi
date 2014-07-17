@@ -1,0 +1,48 @@
+
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Marlight Ajax</title>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+        <script type="text/javascript" src="ajax.js"></script>
+
+    </head>
+
+    <body>
+        <form action="" id="myform">
+
+            <select name="mydata" id="mydata">
+                <option value="ALL_ON">Все включить</option>
+                <option value="ALL_OFF">Все выключить</option>
+                <option value="BRIGHT_UP">Увеличить яркость</option>
+                <option value="BRIGHT_DOWN">Уменьшить яркость</option>
+                <option value="TEMP_COLDER">Цветовая температура холоднее</option>
+                <option value="TEMP_WARMER">Цветовая температура теплее</option>
+                <option value="BRIGHT_TEMP_DEFAULT">Яркость и температура по умолчанию</option>
+                <option value="ON_1">Включить канал 1</option>
+                <option value="OFF_1">Выключить канал 1</option>
+                <option value="ON_2">Включить канал 2</option>
+                <option value="OFF_2">Выключить канал 2</option>
+                <option value="ON_3">Включить канал 3</option>
+                <option value="OFF_3">Выключить канал 3</option>
+                <option value="ON_4">Включить канал 4</option>
+                <option value="OFF_4">Выключить канал 4</option>
+                <option value="MODE_NIGHT">Режим НОЧЬ</option>
+                <option value="MODE_MEETING">Режим СОВЕЩАНИЕ</option>
+                <option value="MODE_READING">Режим ЧТЕНИЕ</option>
+                <option value="MODE_MODE">Режим MODE</option>
+            </select>
+            <input type="button" onclick="send();" value="Send">
+        </form>
+
+        <div id="result"></div>
+
+    </body>
+</html>
+    
+    
+    
+    
+    
+
