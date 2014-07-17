@@ -18,3 +18,13 @@ D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight_test\obj\Debug\Marlight_test.csp
 D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight_test\obj\Debug\Marlight_test.Form1.resources
 D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight_test\obj\Debug\Marlight_test.Properties.Resources.resources
 D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight_test\obj\Debug\Marlight_test.csproj.GenerateResource.Cache
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight_test\obj\Debug\Marlight_test.exe
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight_test\obj\Debug\Marlight_test.pdb
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight_test\bin\Debug\Marlight_test.exe
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight_test\bin\Debug\Marlight_test.pdb
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight_test\bin\Debug\Marlight.dll
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight_test\bin\Debug\Marlight.pdb
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight_test\obj\Debug\Marlight_test.csprojResolveAssemblyReference.cache
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight_test\obj\Debug\Marlight_test.Form1.resources
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight_test\obj\Debug\Marlight_test.Properties.Resources.resources
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight_test\obj\Debug\Marlight_test.csproj.GenerateResource.Cache

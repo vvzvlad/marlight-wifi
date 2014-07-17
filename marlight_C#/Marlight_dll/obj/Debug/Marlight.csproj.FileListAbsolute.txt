@@ -3,3 +3,8 @@ D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight\bin\Debug\Marlight.pdb
 D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight\obj\Debug\Marlight.csprojResolveAssemblyReference.cache
 D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight\obj\Debug\Marlight.dll
 D:\Users\EfimovMV.MIP\Desktop\Marlight\Marlight\obj\Debug\Marlight.pdb
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight\bin\Debug\Marlight.dll
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight\bin\Debug\Marlight.pdb
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight\obj\Debug\Marlight.csprojResolveAssemblyReference.cache
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight\obj\Debug\Marlight.dll
+C:\Users\Zeratyl\Documents\Visual Studio 2012\Projects\Marlight sources c#\Marlight\obj\Debug\Marlight.pdb
